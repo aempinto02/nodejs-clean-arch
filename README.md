@@ -1,2 +1,1 @@
-# nodejs-clean-arch
-Projeto completo com NodeJS, Typescript, Express e Prisma
+# Projeto de estudo Clean Arch com NodeJS, Typescript, Express e Prisma
